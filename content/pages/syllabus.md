@@ -33,13 +33,66 @@ While these five phases may, at first, seem to represent a linear process, the c
 
 These five phases also define the major assignments of the class. These assignments will be composed of data gathering, analysis of various sorts, writing, mapping, designing, presentation, and documentation of various sorts. The assignments will be most carefully defined in terms of the questions to be addressed. Expectations will be variously detailed depending on the need to do so. Assignments 1 - 4 have been conceived as cumulative leading to Assignment 5 in which the student may assemble all previous work into one final, comprehensive proposal. Grades will be calculated as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments 1 - 4 | 40% |
-| Assignment 5 | 20% |
-| Individual participation | 20% |
-| Group work participation | 20% |
-| Total | 100% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments 1 - 4
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignment 5
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group work participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+100%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The assignments will include writing, presentations, debate, and other elements. In addition, you will be asked to maintain a written journal of your thoughts and observations. We will review, but not grade this journal. In class projects, software tutorials, discussions and other events will provide a great deal of subject matter for these journals.
 
